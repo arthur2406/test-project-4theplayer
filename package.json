@@ -1,0 +1,16 @@
+{
+  "name": "test-project-4theplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/js/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.25",
+    "typescript": "^3.9.7"
+  }
+}
